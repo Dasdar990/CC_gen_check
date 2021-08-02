@@ -1,1 +1,1 @@
-# cc_gen_check
+CC_gen_check
